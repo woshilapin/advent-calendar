@@ -1,0 +1,5 @@
+# Encoding Error
+
+```
+cargo run
+```
